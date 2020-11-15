@@ -179,7 +179,7 @@ a:hover {
 .flip-card {
   background-color: grey;
   width: 320px;
-  height: 310px;
+  height: 330px;
   border: 1px solid grey;
   perspective: 1000px;
 }
