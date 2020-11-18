@@ -160,6 +160,10 @@ a:hover {
   text-transform: uppercase;
 }
 
+.w-100 {
+  width: 100%;
+}
+
 .btn {
   text-align: center;
   background-color: maroon;
