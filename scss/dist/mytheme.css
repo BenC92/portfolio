@@ -75,7 +75,7 @@ h1 {
 }
 
 .col-4 {
-  color: black;
+  color: azure;
   padding: 5px;
   padding-right: 5px;
   padding-left: 10px;
@@ -113,6 +113,10 @@ main {
 
 .p2-p2 {
   justify-content: flex-end;
+}
+
+ul {
+  color: azure;
 }
 
 p {
